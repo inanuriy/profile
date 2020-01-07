@@ -51,7 +51,7 @@ p {
 .sosmed {
     align-items: center;
     height: 30px;
-    weight: 30px;
+    /* weight: 30px; */
 }
 
 footer {
